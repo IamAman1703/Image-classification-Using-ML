@@ -22,3 +22,19 @@ Pokémon were quite distributed so appropriate preprocessing was done to scale t
 ![cm-rmc](https://user-images.githubusercontent.com/77916532/107880830-4f404b80-6f07-11eb-8531-9329c5298918.jpeg)
 ![cm-svm](https://user-images.githubusercontent.com/77916532/107880832-50717880-6f07-11eb-823d-66b906f3b71d.jpeg)
 ![lo-reg-cm](https://user-images.githubusercontent.com/77916532/107880835-51a2a580-6f07-11eb-8ecb-74acab788a10.jpeg)
+
+
+# Prediction Report
+
+![gnb-report](https://user-images.githubusercontent.com/77916532/107880874-86166180-6f07-11eb-9758-f518d1ff1b49.jpeg)
+![log-reg-report](https://user-images.githubusercontent.com/77916532/107880876-8878bb80-6f07-11eb-99bf-de8e9b632208.jpeg)
+![report-rmc](https://user-images.githubusercontent.com/77916532/107880879-89115200-6f07-11eb-9ea8-bd9473326ce5.jpeg)
+![clf-report-dtf](https://user-images.githubusercontent.com/77916532/107880880-8a427f00-6f07-11eb-9cec-b4b32ce496fd.jpeg)
+
+# Clustering 
+![clusters](https://user-images.githubusercontent.com/77916532/107880898-ac3c0180-6f07-11eb-86b0-eb43978ec054.jpeg)
+![elbow-kmeans](https://user-images.githubusercontent.com/77916532/107880899-ae05c500-6f07-11eb-9347-e3e906524c10.jpeg)
+
+# ANN
+
+
