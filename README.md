@@ -37,4 +37,5 @@ Pokémon were quite distributed so appropriate preprocessing was done to scale t
 
 # ANN
 
+![ann-accuracy](https://user-images.githubusercontent.com/77916532/107880919-cbd32a00-6f07-11eb-8b85-a7eb760184a5.jpeg)
 
