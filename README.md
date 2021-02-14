@@ -10,3 +10,4 @@ The input for this task is images of Ditto, Butter free and Pikachu, while the o
 dataset. Dataset consist of 66 images of butter free, 59 images of Ditto and 198 images of Pikachu. Size of image of these
 Pokémon were quite distributed so appropriate preprocessing was done to scale them to a similar level. 
 
+![Untitled23](https://user-images.githubusercontent.com/77916532/107880747-dccf6b80-6f06-11eb-9534-48156b0fe202.png)
